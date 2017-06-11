@@ -10,6 +10,11 @@ Results of the *Writing your first Django app* series on djangoproject.com, as o
 1. [Part 6](https://docs.djangoproject.com/en/1.11/intro/tutorial06/) - 2645464
 1. [Part 7](https://docs.djangoproject.com/en/1.11/intro/tutorial07/) - 12d9a73
 
+# This branch
+
+This branch is meant to accompany the **Testing Python Web Apps with Selenium**
+article on my website, [chrxs.net](https://chrxs.net).
+
 # Installation
 
 ## Requirements
