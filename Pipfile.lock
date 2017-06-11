@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "cb65967bdf3a7372749ce6144be4ee63f412aeeac624342fda3a2b58b1c43c15"
+            "sha256": "26bb0abe2443a2876a5d12bf39cd3376c60a2df486ff3c93ce232a20616cda89"
         },
         "requires": {},
         "sources": [
@@ -11,6 +11,16 @@
             }
         ]
     },
-    "default": {},
+    "default": {
+        "django": {
+            "version": "==1.11"
+        },
+        "pytz": {
+            "version": "==2017.2"
+        },
+        "selenium": {
+            "version": "==3.4.3"
+        }
+    },
     "develop": {}
 }
