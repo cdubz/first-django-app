@@ -1,6 +1,6 @@
 # First Django App
 
-Results of the *Writing your first Django app* series on djangoproject.com, as of Djano 1.11:
+Results of the *Writing your first Django app* series on djangoproject.com, as of Django 1.11:
 
 1. [Part 1](https://docs.djangoproject.com/en/1.11/intro/tutorial01/) - 8261c24
 1. [Part 2](https://docs.djangoproject.com/en/1.11/intro/tutorial02/) - bcf9e99
@@ -25,7 +25,7 @@ apt-get install python3 python3-pip
 pip install pipenv
 git clone https://github.com/cdubz/first-django-app.git
 cd first-django-app/
-pipenv install --three
+pipenv install --tree
 pipenv shell
 cd mysite
 python manage.py runserver
